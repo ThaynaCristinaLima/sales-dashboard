@@ -122,6 +122,5 @@ This dashboard was developed as part of a Power BI learning project, applying co
 
 ## 📬 Contact
 
-Feel free to connect with me on LinkedIn and explore my other projects.
-
+Feel free to connect with me on LinkedIn.
 - 💼 **LinkedIn:** [Thayna Cristina Lima](https://www.linkedin.com/in/thaynacristinalima)
