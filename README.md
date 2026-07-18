@@ -5,14 +5,13 @@
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?logo=microsoft-excel&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 
-An interactive Sales Dashboard developed in **Power BI** to analyze sales performance, monitor KPIs, and support data-driven business decisions.
+An interactive Sales Dashboard developed in Power BI as part of a practical learning project, designed to analyze sales performance, monitor KPIs, and support data-driven business decisions.
 
 ---
 
 ## 📖 About the Project
 
-This project was developed in Power BI to transform raw sales data into interactive dashboards and meaningful business insights.
-The dashboard enables users to monitor performance, identify sales trends, compare results, and analyze business metrics through dynamic visualizations.
+This project was developed as part of a practical learning activity using Power BI. Its purpose was to apply data transformation, modeling, DAX, and dashboard development techniques while analyzing sales performance through interactive visualizations.
 
 ---
 
