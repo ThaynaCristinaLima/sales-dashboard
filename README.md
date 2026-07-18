@@ -1,5 +1,10 @@
 # 📊 Sales Dashboard
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Data%20Analysis-blue)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+
 An interactive Sales Dashboard developed in **Power BI** to analyze sales performance, monitor KPIs, and support data-driven business decisions.
 
 ---
