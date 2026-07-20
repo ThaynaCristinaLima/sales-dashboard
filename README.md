@@ -5,44 +5,61 @@
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?logo=microsoft-excel&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 
-An interactive Sales Dashboard developed in Power BI as part of a practical learning project, designed to analyze sales performance, monitor KPIs, and support data-driven business decisions.
+An interactive Sales Dashboard developed in Power BI as part of a practical learning project. The project focused on applying Business Intelligence concepts through data transformation, data modeling, DAX, KPI development, and interactive visualizations to analyze sales performance and support data-driven business decisions.
 
 ---
 
-## 📖 About the Project
+# 📖 Business Context
 
-This project was developed as part of a practical learning activity using Power BI. Its purpose was to apply data transformation, modeling, DAX, and dashboard development techniques while analyzing sales performance through interactive visualizations.
+This dashboard was developed as part of a practical Power BI learning project with the objective of applying Business Intelligence concepts in a sales analysis scenario.
+
+The project simulates the analytical needs of a sales department, where managers and business analysts require quick access to reliable information to monitor business performance, identify trends, compare product and brand performance, and evaluate sales across different countries.
+
+The dashboard centralizes this information into a single interactive report, allowing users to explore key performance indicators and gain insights that support business decision-making.
 
 ---
 
-## 🎯 Business Objectives
+# ❓ Business Questions
+
+This dashboard helps answer questions such as:
+
+- How is sales performance evolving over time?
+- Which brands generate the highest revenue?
+- Which products have the best sales performance?
+- Which countries contribute most to total revenue?
+- How do sales indicators change when filters are applied?
+- Which business areas deserve greater attention?
+
+---
+
+# 🎯 Business Objectives
 
 - Monitor overall sales performance.
 - Track key business KPIs.
-- Compare revenue over time.
-- Identify best-selling products and brands.
-- Analyze sales by country.
-- Support business decision-making through interactive reports.
+- Analyze revenue trends over time.
+- Compare brand and product performance.
+- Evaluate sales by country.
+- Support business decisions through interactive analysis.
 
 ---
 
-## 📊 Dashboard Preview
+# 📊 Dashboard Preview
 
-### Main Dashboard
+## Main Dashboard
 
 ![Main Dashboard](dashboard_page_1.png)
 
-### Sales Analysis
+## Sales Analysis
 
 ![Sales Analysis](dashboard_page_2.png)
 
-### Sales Details
+## Sales Details
 
 ![Sales Details](dashboard_page_3.png)
 
 ---
 
-## 📈 KPIs Included
+# 📈 KPIs Included
 
 - Total Sales
 - Total Profit
@@ -53,7 +70,7 @@ This project was developed as part of a practical learning activity using Power 
 
 ---
 
-## 📌 Dashboard Features
+# 📌 Dashboard Features
 
 - Interactive slicers
 - Dynamic filtering
@@ -66,7 +83,20 @@ This project was developed as part of a practical learning activity using Power 
 
 ---
 
-## 🛠️ Tools & Technologies
+# 📊 Business Insights
+
+The dashboard enables users to:
+
+- Monitor business performance through interactive KPIs.
+- Compare sales results across different periods.
+- Identify the best-performing brands and products.
+- Analyze sales distribution by country.
+- Detect sales trends through interactive filtering.
+- Support data-driven decision-making with clear and interactive visualizations.
+
+---
+
+# 🛠️ Tools & Technologies
 
 - Power BI
 - Microsoft Excel
@@ -75,20 +105,24 @@ This project was developed as part of a practical learning activity using Power 
 
 ---
 
-## 💼 Skills Demonstrated
+# 💼 Skills Demonstrated
 
 - Data Cleaning
+- Data Transformation
 - Data Modeling
-- Data Visualization
+- DAX Measures
 - KPI Development
-- Business Intelligence
+- Business Analysis
+- Performance Analysis
+- Data Visualization
 - Dashboard Design
 - Interactive Reporting
+- Business Intelligence
 - Data Storytelling
 
 ---
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 
 ```text
 sales-dashboard/
@@ -101,30 +135,20 @@ sales-dashboard/
 └── README.md
 ```
 
----
-
-## 🚀 How to Use
-
-1. Download the repository.
-2. Open **sales-dashboard.pbix** using Power BI Desktop.
-3. Explore the interactive dashboard.
-4. Use the filters to analyze different business scenarios.
 
 ---
 
-## 📁 Dataset
+# 📌 Key Takeaways
 
-The dataset used in this project contains sales information for dashboard development and analytical practice.
+This project demonstrates how Power BI can transform raw sales data into actionable business insights.
 
----
-
-## 📝 Project Context
-
-This dashboard was developed as part of a Power BI learning project, applying concepts of data visualization, KPI analysis, dashboard design, Power Query, and DAX.
+Rather than simply presenting charts, the dashboard was designed to help users monitor sales performance, identify trends, compare products and brands, evaluate geographic results, and support business decisions through interactive data analysis.
 
 ---
 
-## 📬 Contact
+# 📬 Contact
 
 Feel free to connect with me on LinkedIn.
-- 💼 **LinkedIn:** [Thayna Cristina Lima](https://www.linkedin.com/in/thaynacristinalima)
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/thaynacristinalima
